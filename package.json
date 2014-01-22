@@ -1,16 +1,16 @@
 {
-  "author": "toran billups <toranb@gmail.com>",
-  "name": "jasmine-phantom-node",
+  "author": "matt lukens <matt.lukens@ncino.com>",
+  "name": "matt-jasmine-phantom-node",
   "description": "javascript test runner that uses node-phantom to execute jasmine specs",
   "version": "0.2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/toranb/jasmine-phantom-node"
+    "url": "https://github.com/matt-lukens/jasmine-phantom-node"
   },
   "keywords": ["testing", "bdd", "jasmine"],
   "main": "./lib/main",
   "bin": {
-    "jasmine-phantom-node": "./bin/jasmine-phantom-node"
+    "matt-jasmine-phantom-node": "./bin/jasmine-phantom-node"
   },
   "engines": {
     "node": ">=v0.8.1"
