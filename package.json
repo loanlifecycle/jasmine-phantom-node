@@ -1,6 +1,6 @@
 {
   "author": "matt lukens <matt.lukens@ncino.com>",
-  "name": "matt-jasmine-phantom-node",
+  "name": "debug-jasmine-phantom-node",
   "description": "javascript test runner that uses node-phantom to execute jasmine specs",
   "version": "0.2.0",
   "repository": {
@@ -10,7 +10,7 @@
   "keywords": ["testing", "bdd", "jasmine"],
   "main": "./lib/main",
   "bin": {
-    "matt-jasmine-phantom-node": "./bin/jasmine-phantom-node"
+    "debug-jasmine-phantom-node": "./bin/jasmine-phantom-node"
   },
   "engines": {
     "node": ">=v0.8.1"
