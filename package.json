@@ -1,11 +1,11 @@
 {
-  "author": "matt lukens <matt.lukens@ncino.com>",
+  "author": "toran billups <toranb@gmail.com>",
   "name": "debug-jasmine-phantom-node",
   "description": "javascript test runner that uses node-phantom to execute jasmine specs",
   "version": "0.2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/matt-lukens/jasmine-phantom-node"
+    "url": "https://github.com/loanlifecycle/jasmine-phantom-node"
   },
   "keywords": ["testing", "bdd", "jasmine"],
   "main": "./lib/main",
