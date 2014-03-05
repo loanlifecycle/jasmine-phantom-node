@@ -17,7 +17,7 @@
   },
   "licenses" : ["MIT"],
   "dependencies": {
-    "express":"",
+    "express":"<=3.4.8",
     "colors":"",
     "node-phantom": "",
     "coffee-script": ""
